@@ -2,7 +2,7 @@
 
 Welcome to my page — looks like you want to learn more about me. So here we go!
 
-My name is **QuiX**, I'm from **Türkiye**.  
+You can call me **QuiX**, I'm from **Türkiye**.  
 I love coding, game development, and just vibing online.
 
 ---
