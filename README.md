@@ -28,4 +28,4 @@ I love coding, game development, and just vibing online.
 I'm usually chilling, but feel free to reach out! I'll do my best to reply when I can.
 
 ## Stats
-[![QuiX's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuiX1612&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![QuiX's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheQu1X&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
